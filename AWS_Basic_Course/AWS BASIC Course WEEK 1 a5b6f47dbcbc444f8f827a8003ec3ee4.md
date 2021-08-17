@@ -1,4 +1,4 @@
-# AWS BASIC Course WEEK 1
+# AWS BASIC Course Week 1
 
 **[수업 목표]**
 
