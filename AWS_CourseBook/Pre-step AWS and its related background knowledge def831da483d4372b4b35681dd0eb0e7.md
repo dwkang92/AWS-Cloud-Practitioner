@@ -1,4 +1,4 @@
-# Pre-step: AWS and its related background knowledge
+# 00.AWS and its related background knowledge
 
 ## 1. AWSとクラウドサーバーモデル
 
